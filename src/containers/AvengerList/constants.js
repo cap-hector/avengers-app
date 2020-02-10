@@ -1,0 +1,4 @@
+export const LIST_AVENGERS = 'LIST_AVENGERS';
+export const GET_AVENGER = 'GET_AVENGER';
+
+export const FETCH_AVENGER = 'FETCH_AVENGER';
